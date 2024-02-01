@@ -193,3 +193,5 @@ for (let i = 0; i < inputString.length; i++) {
         changeString += inputString[i];
     }
 }
+
+console.log(inputString, " = ", changeString);
